@@ -3,7 +3,7 @@ how to install mysql and workbench on windows
 
 + step 1
 <img src="1.jpg" />
-+ step 2
++ step 2 (ảnh bị nhầm đó, phải chọn community server)
 <img src="2.jpg" />
 + step 3
 <img src="3.jpg" />
